@@ -1,0 +1,98 @@
+[
+  {
+    "feature": "User Registration and Login",
+    "price": 10000
+  },
+  {
+    "feature": "Login with Google",
+    "price": 5000
+  },
+  {
+    "feature": "Login with Facebook",
+    "price": 7000
+  },
+  {
+    "feature": "Email Verification",
+    "price": 3000
+  },
+  {
+    "feature": "Password Reset",
+    "price": 2500
+  },
+  {
+    "feature": "User Profile Management",
+    "price": 5000
+  },
+  {
+    "feature": "Multi-vendor Support",
+    "price": 15000
+  },
+  {
+    "feature": "Dynamic Product Listing Homepage",
+    "price": 10000
+  },
+  {
+    "feature": "Paid Boosting Ads",
+    "price": 10000
+  },
+  {
+    "feature": "Product Search",
+    "price": 7000
+  },
+  {
+    "feature": "Advanced Search with Filters",
+    "price": 12000
+  },
+  {
+    "feature": "Product Categories and Subcategories",
+    "price": 6000
+  },
+  {
+    "feature": "Product Reviews and Ratings",
+    "price": 8000
+  },
+  {
+    "feature": "Product Comments",
+    "price": 8000
+  },
+  {
+    "feature": "Bookmark",
+    "price": 2000
+  },
+  {
+    "feature": "Basic Analytics Dashboard",
+    "price": 7000
+  },
+  {
+    "feature": "Advanced Analytics and Reporting",
+    "price": 25000
+  },
+  {
+    "feature": "Email Notifications",
+    "price": 7000
+  },
+  {
+    "feature": "SMS Notifications",
+    "price": 12000
+  },
+  {
+    "feature": "Responsive Design",
+    "price": 20000
+  },
+  {
+    "feature": "Admin Panel + CMS",
+    "price": 40000
+  },
+  {
+    "feature": "Multi-language Support",
+    "price": 20000
+  },
+  {
+    "feature": "Multi-currency Support",
+    "price": 18000
+  },
+  {
+    "feature": "SEO Optimization",
+    "price": 15000
+  }
+]
