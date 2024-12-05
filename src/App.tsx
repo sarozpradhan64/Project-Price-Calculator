@@ -41,7 +41,7 @@ const FeatureBasedPriceCalculator = () => {
     <Card className="w-full max-w-3xl mx-auto bg-gray-50">
       <Card.CardHeader>
         <h2 className="text-2xl font-bold text-center text-gray-800">
-          Marketplace Feature-based Price Calculator
+          Ecommerce Project Price Calculator
         </h2>
       </Card.CardHeader>
       <Card.CardContent>
